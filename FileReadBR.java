@@ -2,7 +2,7 @@ import java.io.*;
 
 public class FileReadBR {
     public static void main(String[] args) throws IOException, FileNotFoundException {
-        File inFile = new File("C:\\Users\\pabilandokv\\Documents\\NetBeansProjects\\JavaFileHandling\\IMGAY.txt");
+        File inFile = new File("C:\\Users\\mierrmb\\Documents\\NetBeansProjects\\JavaFileHandling\\filething.txt");
         BufferedReader br = new BufferedReader(new FileReader(inFile));
         
         try{
