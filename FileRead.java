@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 
 public class FileRead {
         public static void main(String[] args) throws FileNotFoundException {
-            File inputFile = new File("C:\\Users\\pabilandokv\\Documents\\NetBeansProjects\\JavaFileHandling\\input.txt");
+            File inputFile = new File("C:\\Users\\mierrmb\\Documents\\NetBeansProjects\\JavaFileHandling\\input.txt");
             Scanner inFile = new Scanner(inputFile);
             
             try{
