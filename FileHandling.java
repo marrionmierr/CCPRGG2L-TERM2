@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class FileHandling {
     public static void main(String[] args) throws FileNotFoundException {
         // Declaration for file
-        File inputFile = new File("C:\\Users\\dalalt\\Documents\\NetBeansProjects\\JavaFileHandling\\input.txt");
+        File inputFile = new File("C:\\Users\\mierrmb\\Documents\\NetBeansProjects\\JavaFileHandling\\input.txt");
         Scanner inFile = new Scanner(inputFile);
        
         try{
